@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-05-20 11:26+0100\n"
-"PO-Revision-Date: 2014-10-03 21:29+0200\n"
+"PO-Revision-Date: 2014-10-05 16:06+0200\n"
 "Last-Translator: Zola 'adeebnqo' Mahlaza <adeebnqo@gmail.com>\n"
 "Language-Team: Xhosa <xh@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgstr "Fihla amagama"
 
 #: js/ui/cinnamonMountOperation.js:285
 msgid "Wrong password, please try again"
-msgstr ""
+msgstr "Iphasiwedi irongo, phinda uzame kwakhona"
 
 #: js/ui/desklet.js:233
 msgid "Remove this desklet"
@@ -255,13 +255,13 @@ msgstr ""
 
 #: js/ui/messageTray.js:1249
 msgid "Open"
-msgstr ""
+msgstr "Vula"
 
 #: js/ui/messageTray.js:1256
 #: files/usr/share/cinnamon/applets/panel-launchers@cinnamon.org/applet.js:58
 #: files/usr/lib/cinnamon-settings/modules/cs_backgrounds.py:69
 msgid "Remove"
-msgstr ""
+msgstr "Susa"
 
 #: js/ui/messageTray.js:1812
 msgid "System Information"
@@ -541,7 +541,7 @@ msgstr ""
 
 #: files/usr/share/cinnamon/applets/menu@cinnamon.org/applet.js:573
 msgid "Places"
-msgstr ""
+msgstr "Indawo"
 
 #: files/usr/share/cinnamon/applets/menu@cinnamon.org/applet.js:593
 msgid "Recent Files"
@@ -551,7 +551,7 @@ msgstr ""
 #: files/usr/lib/cinnamon-settings/modules/cs_windows.py:40
 #: files/usr/lib/cinnamon-settings/modules/cs_windows.py:171
 msgid "Menu"
-msgstr ""
+msgstr "Imenyu"
 
 #: files/usr/share/cinnamon/applets/menu@cinnamon.org/applet.js:1668
 #: files/usr/lib/cinnamon-settings/modules/cs_keyboard.py:123
@@ -577,7 +577,7 @@ msgstr ""
 
 #: files/usr/share/cinnamon/applets/menu@cinnamon.org/applet.js:1716
 msgid "Shutdown the computer"
-msgstr ""
+msgstr "Cima ikhomputha"
 
 #: files/usr/share/cinnamon/applets/menu@cinnamon.org/applet.js:1841
 msgid "Type to search..."
@@ -585,7 +585,7 @@ msgstr ""
 
 #: files/usr/share/cinnamon/applets/network@cinnamon.org/applet.js:95
 msgid "<unknown>"
-msgstr ""
+msgstr "<ayaziwa>"
 
 #: files/usr/share/cinnamon/applets/network@cinnamon.org/applet.js:305
 msgid "disabled"
